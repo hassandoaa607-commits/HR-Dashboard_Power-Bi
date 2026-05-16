@@ -12,3 +12,5 @@ across 13 Locations, 11 Nationalities & 9 Departments.
 
 ## 🛠 Tools Used
 Power BI | DAX | Data Modeling
+
+![HR Dashboard](Screenshot%202026-05-16%20053314.png)
